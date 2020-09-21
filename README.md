@@ -1,2 +1,2 @@
 # cema
-Repository of the team work
+Repository https://cemanahuatl.github.io/cema/
